@@ -8,4 +8,4 @@ big3.o:big3.c
 fact.o:fact.c
 	gcc -c fact.c
 palin.o:palin.c
-        gcc -c palin.c
+	gcc -c palin.c
